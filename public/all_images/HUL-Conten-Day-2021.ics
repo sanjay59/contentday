@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Welcome to HUL Content Day 2021 – Age of Content Disruption! With the resounding successes of the last four editions that have brought many National & International accolades & ‘Client of the Year’ awards. Content Day has firmly established itself as a ‘Content Crucible’ by getting the Best Minds in the Content Industry to bring ‘Brands Alive’ through original thinking & innovation.
+LOCATION:https://hulcontentday2021.streamy.in/
+SUMMARY:HUL Content Day 2021
+TRANSP:TRANSPARENT
+DTSTART:20210924T043000Z
+DTEND:20210924T093000Z
+END:VEVENT
+END:VCALENDAR
+UID:kg0gh87jwsi
+DTSTAMP:20210921
+PRODID:datebook.dev
