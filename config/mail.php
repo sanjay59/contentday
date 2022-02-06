@@ -40,7 +40,7 @@ return [
             'port' => env('MAIL_PORT', 465),
             'encryption' => env('MAIL_ENCRYPTION', 'ssl'),
             'username' => env('MAIL_USERNAME','apikey'),
-            'password' => env('MAIL_PASSWORD','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'),
+            'password' => env('MAIL_PASSWORD',''),
             'timeout' => null,
             'auth_mode' => null,
         ],
@@ -84,11 +84,11 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'noreply@streamy.in'),
+        'address' => env('MAIL_FROM_ADDRESS', ''),
         'name' => env('MAIL_FROM_NAME', 'You deserve this break!'),
     ],
     'sendgrid' => [
-        'api_key' => env('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'),
+        'api_key' => env(''),
     ],
 
     'stream' => [
